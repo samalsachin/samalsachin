@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin Samal</h1>
 <h3 align="center">A passionate Java developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjI0OGE2bm92djB4eWt6eWx5amhubzZjZzg2aGs2cTQwdXYzZm1mcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wINLgNDPd3zzsxKnpH/giphy.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjI0OGE2bm92djB4eWt6eWx5amhubzZjZzg2aGs2cTQwdXYzZm1mcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wINLgNDPd3zzsxKnpH/giphy.gif"> -->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on [a Map Navigator project](https://github.com/samalsachin/BBSR)
 
